@@ -1,0 +1,36 @@
+body
+{
+	background: url(sse.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.ella{
+	background-image: url(222e.jpg);
+    background-size: cover;
+	background-repeat: repeat;
+	width: none;
+	height: 500px;
+}
+.wrapper h1{
+	color: black;
+	font-size: 50px;
+	font-style: bold;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.ella p{
+	margin-right: 1100px;
+	color: white;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.wrapper p
+{
+	color: white;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}

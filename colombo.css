@@ -1,0 +1,37 @@
+body
+{
+	background-image: url(qq.jpg);
+    background-size: cover;
+	background-repeat: repeat;
+}
+.colombo{
+	background-image: url(1101.jpg);
+    background-size: cover;
+	background-repeat: repeat;
+	width: none;
+	height: 500px;
+}
+.wrapper h1{
+	font-size: 50px;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+	padding-top: 20px;
+}
+.colombo p{
+	margin-right: 1100px;
+	color: white;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.letter{
+		font-family: Tahoma, geneva, sans-serif;
+	color: #000;
+	font-style: bold;
+	padding-top: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}

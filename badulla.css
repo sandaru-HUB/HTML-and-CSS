@@ -1,0 +1,36 @@
+body
+{
+	background: url(10111.jpg);
+	background-size: cover;
+}
+.badulla{
+	background-image: url(1011.jpeg);
+    background-size: cover;
+	background-repeat: no-repeat;
+	width: none;
+	height: 500px;
+}
+.wrapper h1{
+	color: black;
+	font-size: 50px;
+	font-style: bold;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.badulla p{
+	margin-right: 1100px;
+	color: white;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.letter
+{
+	font-family: Tahoma, geneva, sans-serif;
+	color: #000;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
